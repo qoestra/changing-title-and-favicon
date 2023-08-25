@@ -1,4 +1,6 @@
 # Changing Title and Favicon
+##### If Tab is Opened => 😃 My Good Title (Title)
+##### If Tab is Closed => 😮 Dont Forget Me (Title)
 ### Customization
 
 ##### Title:
